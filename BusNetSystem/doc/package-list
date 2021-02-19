@@ -1,0 +1,12 @@
+busnet
+busnet.dbmsManagement
+busnet.entity
+busnet.exception
+busnet.features.employeeManagement
+busnet.features.lineManagement
+busnet.features.ridesManagement
+busnet.features.shiftManagement
+busnet.guiElements
+busnet.login
+busnet.mailManagement
+totemService
